@@ -3,7 +3,8 @@
 # This script depends on the following packages being present:
 # wamerican dnsutils
 
-HOST=dumbledore
+# Change $HOST here to your Pi-hole's IP address
+HOST=192.168.1.100
 NUMWORDS=10
 NUMLOOPS=1001
 
